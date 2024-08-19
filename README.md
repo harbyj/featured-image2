@@ -34,7 +34,6 @@ To run this project locally:
    - **Font Size:** Use the slider or input box to set the font size.
    - **Text Color:** Pick a color from the color picker to set the text color.
    - **Font Style:** Choose between normal or italics for the font style.
-3. **Generate Image:** Click the "Generate" button to create your featured image.
 4. **Download Image:** Save the generated image to your device.
 
 ## Screenshots
